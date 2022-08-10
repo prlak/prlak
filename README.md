@@ -1,5 +1,8 @@
 <h1>About Me :sparkles: </h1>  
 
+<p align="center">
+<img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47x3lfalx5j4byebcekb67j56oy7offh8b6a46pr1d&rid=giphy.gif&ct=g" width="550" height"750" />
+
 Hi there 👋
 
 :raising_hand_woman: I’m Lakshmi Pranatharthy Haran 
