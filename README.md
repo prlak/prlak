@@ -1,6 +1,7 @@
 ### About Me :sparkles: : 
------------------------
-### Hi there 👋
+
+Hi there 👋
+
 :raising_hand_woman: I’m Lakshmi Pranatharthy Haran 
 
 :heart: Passionate about Data Science :chart_with_upwards_trend: and Web development! 🌐
@@ -11,12 +12,17 @@
 ### Connect with me :e-mail: :
 
 <a href="https://www.linkedin.com/in/lakshmi-p-h/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" alt="" height="30" /></a> 
-<a href="https://github.com/prlak" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="" height="30" /></a> 
-<a href="lakshmiharan1@gmail.com" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png?raw=true" alt="" height="50" /></a>
+<a href="https://github.com/prlak" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" alt="" height="30" /></a>
+
 ---------------------------
 
 ### GitHub Stats :chart: :
-<img src="https://github-readme-stats.vercel.app/api?username=prlak&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prlak&show_icons=true&theme=buefy" width="500"> 
+
+<img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=prlak&theme=buefy"/>
+<img alt="Lakshmi's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prlak&layout=compact&langs_count=8&theme=buefy" width=40%/>
 
 
 <!--
