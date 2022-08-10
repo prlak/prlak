@@ -1,4 +1,11 @@
 ### Hi there 👋
+:raising_hand_woman: I’m Lakshmi Pranatharthy Haran 
+
+:heart: Passionate about Data Science :chart_with_upwards_trend: and Web development! 🌐
+
+🔭 I am currently working on various projects including Machine Translation, Color detetction from Image, Fraud Detection etc.
+
+
 
 <!--
 **prlak/prlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
