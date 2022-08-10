@@ -15,7 +15,10 @@ Hi there 👋
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=prlak&show_icons=true&theme=buefy" width="500"> 
 
+<p align="center">
 <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=prlak&theme=buefy"/>
+
+<p align="center">
 <img alt="Lakshmi's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prlak&layout=compact&langs_count=8&theme=buefy" width=40%/>
 
 --------------------------
